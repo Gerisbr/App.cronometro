@@ -2,7 +2,7 @@
 
 body{
 
-    background-image: url(img/corre.jpg);
+    background-image: url(../img/corre.jpg);
     background-repeat: no-repeat; 
     background-position: center;
     background-color: black;
@@ -52,3 +52,11 @@ button.btn-zerar {
     text-align: center;
     color: #FFF;
 }
+img {
+    max-width:20%;
+    max-height: 20%;
+   }
+   .cat {
+    height: 10px;
+    width: 10px;
+   }
